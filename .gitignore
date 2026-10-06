@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+build/
+release/
+.env
+.env.*
+*.log
+*.py[cod]
+credentials.json
+last-error.json
+last-login-schema.json
+images.json
+publisher.lock
+preview.html
+uploaded.html
+icviews-image-map.json
